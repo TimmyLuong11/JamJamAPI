@@ -1,8 +1,5 @@
 {
-  "Day1": 1,
-  "Message1": "Wake up this is Milo coming in!",
-  "Day2": 2,
-  "Message2": "Good morning!",
-  "Day3": 3,
-  "Message3": "Good morning! ~Milo"
+  "1": "Wake up this is Milo coming in!",
+  "2": "Good morning!",
+  "3": "Good morning! ~Milo"
 }
