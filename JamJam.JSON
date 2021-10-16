@@ -1,4 +1,15 @@
-{
-  "Day": "1",
-  "Message": "Wake up this is Milo coming in!"
-}
+[
+  {
+    "Day": "1",
+    "Message": "Wake up this is Milo coming in!"
+  },
+  {
+    "Day": "2",
+    "Message": "Good morning!"
+  },
+  {
+    "Day": "3",
+    "Message": "Good morning! ~Milo"
+  }
+
+]
